@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo a73644c077a5dcad40e2e1c7563e5788e00a5068
